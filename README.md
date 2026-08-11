@@ -2,27 +2,26 @@
 
 <img src="https://i.imgur.com/ncfBN9A.png" width="600"/>
 
-**Larp Debug** - **DonutSMP Client** Download
+## Download Larp Debug
 
-Note: **Scroll Down For Installation Guide**
+[![Minecraft 1.21.11](https://img.shields.io/badge/Minecraft-1.21.11-62B47A?style=flat-square)](#requirements)
+[![Fabric Loader](https://img.shields.io/badge/Loader-Fabric-DBD0B4?style=flat-square)](#requirements)
 
-[![Download Larp Debug](https://custom-icon-badges.demolab.com/badge/Download-2ea44f?style=for-the-badge&logo=download&logoColor=white)](../../releases/latest/download/Larp-Debug-1.21.11.jar)
+[![Download Larp Debug](https://custom-icon-badges.demolab.com/badge/DOWNLOAD%20LARP%20DEBUG-238636?style=for-the-badge&logo=download&logoColor=white)](../../releases/latest/download/Larp-Debug-1.21.11.jar)
 
-If the download doesn't start, click **[here](../../releases/latest/download/Larp-Debug-1.21.11.jar)**.
+If the button doesn't work, **[download here](../../releases/latest/download/Larp-Debug-1.21.11.jar)**.
 
 ---
 
 ## What is Larp Debug?
 
-**Larp Debug** is a simple **DonutSMP Client** mod built for Minecraft players who want a lightweight client utility for Fabric. This repository is the official home for the latest **DonutSMP Client** release.
-
-Whether you play alone or with friends, **DonutSMP Client** gives you a fast way to use the client with a clean command and keybind setup for supported Fabric versions.
+**Larp Debug** is a lightweight **DonutSMP client** utility for Fabric, with a simple command and keybind setup for supported Minecraft versions.
 
 ---
 
 ## Virus Scan
 
-**Larp Debug** has been scanned and verified clean. No malware, no trojans, no miners.
+The **Larp Debug** JAR has been submitted to Kaspersky OpenTip and VirusTotal. Review the linked reports below.
 
 ### Kaspersky OpenTip
 
@@ -52,7 +51,7 @@ Whether you play alone or with friends, **DonutSMP Client** gives you a fast way
 
 ### Steps
 
-1. Go to the **[Releases](../../releases)** tab on this repo
-2. Download the latest `Larp-Debug-1.21.11.jar`
-3. Place the JAR in your `.minecraft/mods` folder (Fabric)
-4. Launch Minecraft with **Fabric Loader** installed
+1. Go to the **[Releases](../../releases)** tab in this repository.
+2. Download the latest `Larp-Debug-1.21.11.jar`.
+3. Place the JAR in your `.minecraft/mods` folder.
+4. Launch Minecraft with **Fabric Loader** installed.
